@@ -8,7 +8,7 @@
   "author": "Leah Dykema (https://github.com/leahdykema)",
   "homepage": "https://github.com/leahdykema/Midnight-Phoenix",
   "engines": {
-    "brackets": ">=2.0.0"
+    "brackets": ">=3.0.0"
   },
   "categories": "dark",
   "keywords": ["phcode", "theme", "dark", "extension"],
