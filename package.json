@@ -1,20 +1,18 @@
 {
-    "title": "Name of the theme",
-    "name": "github-<owner>-<repo>",
-    "description": "A sample dark theme.",
-    "version": "0.0.1",
-    "license": "MIT",
-    "author": "your name (https://github.com/<your github id>)",
-    "homepage": "<project web page url or this github repo url if no website available>",
-    "engines": {
-        "brackets": ">=2.0.0"
-    },
-    "categories": "demo",
-    "keywords": [
-        "phcode", "theme", "demo"
-    ],
-    "theme": {
-        "file": "my-theme.less",
-        "dark": true
-    }
+  "title": "Midnight Phoenix",
+  "name": "github-leahdykema-Midnight-Phoenix",
+  "type": "theme",
+  "description": "A high contrast dark theme.",
+  "version": "0.0.1",
+  "license": "MIT",
+  "author": "Leah Dykema (https://github.com/leahdykema)",
+  "homepage": "https://github.com/leahdykema/Midnight-Phoenix",
+  "engines": {
+    "brackets": ">=2.0.0"
+  },
+  "categories": "dark",
+  "keywords": ["phcode", "theme", "dark", "extension"],
+  "files": [
+    "midnight-phoenix.less"
+  ],
 }
