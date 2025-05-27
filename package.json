@@ -12,7 +12,8 @@
   },
   "categories": "dark",
   "keywords": ["phcode", "theme", "dark", "extension"],
-  "files": [
-    "midnight.less"
-  ]
+  "theme": {
+    "file": "midnight.less",
+    "dark": true
+  }
 }
