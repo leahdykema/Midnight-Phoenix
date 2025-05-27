@@ -13,6 +13,6 @@
   "categories": "dark",
   "keywords": ["phcode", "theme", "dark", "extension"],
   "files": [
-    "midnight-phoenix.less"
+    "midnight.less"
   ],
 }
