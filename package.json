@@ -3,12 +3,12 @@
   "name": "github-leahdykema-Midnight-Phoenix",
   "type": "theme",
   "description": "A high contrast dark theme.",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "license": "MIT",
   "author": "Leah Dykema (https://github.com/leahdykema)",
   "homepage": "https://github.com/leahdykema/Midnight-Phoenix",
   "engines": {
-    "brackets": ">=3.0.0"
+    "brackets": ">=0.34.0"
   },
   "categories": "dark",
   "keywords": ["phcode", "theme", "dark", "extension"],
